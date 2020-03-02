@@ -1,0 +1,10 @@
+# 30 days of programming with azionteq LLC
+## Why 30 write code for 30 days?
+Learning to write code is as much as leaning any skill. Coding or programming is a skill. You must practice daily to really s harpen your coding skill. Remember that an apple a day keeps you away from the doctor and a program a day keeps you f rom forgetting the synthax easily. Eventually you'd get used to it.
+
+## day 1
+Write a program to find the distance between point A and B, taken the coordinates of A and B from the user.
+Your code should return 5 for `A(1, 5)` and `B(5, 8)`.
+You would need to include the `cmath` and `iostream` library or header files.
+
+
