@@ -13,4 +13,9 @@ and B from the user.
 Your code should return 5 for `A(1, 5)` and `B(5, 8)`.
 You would need to include the `cmath` and `iostream` library or header files.
 
+## day 2
+Write a program, taking a positive integer from the user,
+convert the integer to binary, octal and hexadecimal base.
+Make use of loops rather.
+
 
