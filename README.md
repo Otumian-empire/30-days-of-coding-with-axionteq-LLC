@@ -18,4 +18,9 @@ Write a program, taking a positive integer from the user,
 convert the integer to binary, octal and hexadecimal base.
 Make use of loops rather.
 
-
+## day 3
+Give a signed, 4-bit binary number, write a program to convert it to its correspoding signed decimal number. Consider the table below for a sample input and output.
+Input | Output
+------|-------
+1100  | -4
+0100  | +4
