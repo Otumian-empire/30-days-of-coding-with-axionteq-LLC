@@ -24,3 +24,6 @@ Input | Output
 ------|-------
 1100  | -4
 0100  | +4
+
+## day 4
+Write a program to find the polar coordinate of a given rectangular (cartesian) coordinate.
