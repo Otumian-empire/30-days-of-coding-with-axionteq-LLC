@@ -27,3 +27,6 @@ Input | Output
 
 ## day 4
 Write a program to find the polar coordinate of a given rectangular (cartesian) coordinate.
+
+## day 5
+Write a function that takes three reals as arguments and returns the max
