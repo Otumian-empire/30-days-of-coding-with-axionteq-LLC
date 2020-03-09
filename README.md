@@ -33,3 +33,6 @@ Write a function that takes three reals as arguments and returns the max
 
 ## day 6
 Implement the bubble sort algorithm
+
+## day 7
+Implement the peak algorithm, given an array and its size as argument
