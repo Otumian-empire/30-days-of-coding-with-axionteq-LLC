@@ -36,3 +36,8 @@ Implement the bubble sort algorithm
 
 ## day 7
 Implement the peak algorithm, given an array and its size as argument
+
+## day 8
+Implement the linear search algorithm, for a one dimensional array and
+and a two dimensional array, gien the array and its size as arguments.
+Make use of functions.
