@@ -41,3 +41,6 @@ Implement the peak algorithm, given an array and its size as argument
 Implement the linear search algorithm, for a one dimensional array and
 and a two dimensional array, gien the array and its size as arguments.
 Make use of functions.
+
+## day 9
+Implement the factorial algorithm.
