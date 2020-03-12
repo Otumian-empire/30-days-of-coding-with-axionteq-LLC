@@ -44,3 +44,7 @@ Make use of functions.
 
 ## day 9
 Implement the factorial algorithm.
+
+## day 10
+Given a time elasped in seconds, convert it to hours, minutes anf seconds.
+In the format, HH:MM:SS
