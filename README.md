@@ -69,3 +69,7 @@ highest high temperature in the array.
 * Function indexLowTemp : This function returns the index of the lowest 
 low temperature in the array.
 (These functions must all have the appropriate parameters.)
+
+
+## day 12
+Implement the min-max-sum algorithm given an array and its size as input.
