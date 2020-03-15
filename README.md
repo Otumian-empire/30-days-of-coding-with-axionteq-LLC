@@ -73,3 +73,8 @@ low temperature in the array.
 
 ## day 12
 Implement the min-max-sum algorithm given an array and its size as input.
+
+## day 13
+write a program to find the inverse of a 2 by 2 matrix, taken an array of of
+size 4 as input where the 0th and 1th indexed elements are the first row
+and the 2th and 3th indexed elements are the second row.
