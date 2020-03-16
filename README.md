@@ -70,7 +70,6 @@ highest high temperature in the array.
 low temperature in the array.
 (These functions must all have the appropriate parameters.)
 
-
 ## day 12
 Implement the min-max-sum algorithm given an array and its size as input.
 
@@ -78,3 +77,7 @@ Implement the min-max-sum algorithm given an array and its size as input.
 write a program to find the inverse of a 2 by 2 matrix, taken an array of of
 size 4 as input where the 0th and 1th indexed elements are the first row
 and the 2th and 3th indexed elements are the second row.
+
+## day 14
+Write a program to the roots of a quadratic equation of the form, ax^2 + bx + c = 0,
+taken a, b and c as input.
