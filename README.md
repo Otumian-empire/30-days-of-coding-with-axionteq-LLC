@@ -81,3 +81,7 @@ and the 2th and 3th indexed elements are the second row.
 ## day 14
 Write a program to the roots of a quadratic equation of the form, ax^2 + bx + c = 0,
 taken a, b and c as input.
+
+# day 15
+Write a program that calculates and prints the sum of all the natural numbers divisible by
+either 3 or 5, up to a given limit entered by the user.
