@@ -89,3 +89,6 @@ either 3 or 5, up to a given limit entered by the user.
 ## day 16
 Write a program that, given two positive integers, will calculate and print the greatest
 common divisor of the two.
+
+## day 17
+Write a program that memics a calculator - takes 2 numerical inputs and an operator.
