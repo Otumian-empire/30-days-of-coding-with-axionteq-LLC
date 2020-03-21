@@ -1,11 +1,15 @@
 # 30 days of programming with azionteq LLC
-## Why 30 write code for 30 days?
-Learning to write code is as much as leaning any skill. Coding or programming is a skill.
-You must practice daily to really s harpen your coding skill.
-Remember that an apple a day keeps you away from the doctor and a program a day keeps you
-from forgetting the synthax easily. Eventually you'd get used to it.
+## Why write code for 30 days?
+Learning to write a computer code is as much as important as leaning any skill.
+Coding or programming is a skill. You must practice daily to really s harpen 
+your coding skill. Remember that an apple a day keeps you away from the doctor
+ and a program a day keeps you from forgetting the synthax easily. Eventually 
+ you'd get used to it.
 
 One of the many solutions to a daily program is available in the `src/` directory.
+
+You don't have to clone this repo, but create your own, solve the daily problems
+ and gain your mastery.
 
 ## day 1
 Write a program to find the distance between point A and B, taken the coordinates of A
@@ -96,3 +100,6 @@ common multiple of the two.
 
 ## day 18
 Write a program that memics a calculator - takes 2 numerical inputs and an operator.
+
+## day 19
+Implement the babylonian algorithm for finding the squareroot of a given number.

@@ -1,17 +1,34 @@
-/* def rt(n):
-    # We are using n itself as
-    # initial approximation This
-    # can definitely be improved
-    x = n
-    y = 1
+#include <iostream>
+using namespace std;
 
-	# e decides the accuracy level
+double mesqrt(double n);
 
-	e = 0.000001
-	while(x - y > e):
-		x = (x + y)/2
-		y = n / x
-		
-	return x
+int main()
+{
+    double num;
+    cout << "Enter the number: ";
+    cin >> num;
 
-print (rt(2)) */
+    cout << "The approximated square root of " << num << " is " << mesqrt(num) << endl;
+    return 0;
+}
+
+double mesqrt(double n)
+{
+    // We are using n itself as
+    // initial approximation This
+    // can definitely be improved
+    // e decides the accuracy level
+
+    double x, y, e = 0.00001;
+    x = n;
+    y = 1;
+
+    while (x - y > e)
+    {
+        x = (x + y) / 2.0;
+        y = n / x;
+    }
+
+    return x;
+}
