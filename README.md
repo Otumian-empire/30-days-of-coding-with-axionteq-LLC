@@ -103,3 +103,7 @@ Write a program that memics a calculator - takes 2 numerical inputs and an opera
 
 ## day 19
 Implement the babylonian algorithm for finding the squareroot of a given number.
+
+## day 20
+Implement the binary search algorithm given a sorted array, its size and the search item as input.
+
