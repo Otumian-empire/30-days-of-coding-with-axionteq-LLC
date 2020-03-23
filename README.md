@@ -107,3 +107,5 @@ Implement the babylonian algorithm for finding the squareroot of a given number.
 ## day 20
 Implement the binary search algorithm given a sorted array, its size and the search item as input.
 
+## day 21
+Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
