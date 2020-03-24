@@ -109,3 +109,6 @@ Implement the binary search algorithm given a sorted array, its size and the sea
 
 ## day 21
 Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
+
+## day 22
+Write a void function that takes arguments, sums the first two and assigns it to the third. (Think a little - address)
