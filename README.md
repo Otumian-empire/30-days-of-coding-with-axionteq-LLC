@@ -118,3 +118,12 @@ Write a program that prompts the user to enter the weight of a person in
 kilograms and outputs the equivalent weight in pounds. Output both the
 weights rounded to two decimal places. (Note that 1 kilogram = 2.2
 pounds.) Format your output with two decimal places.
+
+## day 24
+Write a function that takes as a parameter a nonnegative integer
+and generates the following pattern of stars. If the nonnegative integer is 4,
+then the pattern generated is:
+****
+***
+**
+*
