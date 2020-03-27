@@ -130,3 +130,6 @@ then the pattern generated is:
 
 ## day 25
 Write a function that takes a positive integer, n, as argument and returns the nth fibonacci number.
+
+## day 26
+Write a function to find the sum of the first , N, natural numbers.
