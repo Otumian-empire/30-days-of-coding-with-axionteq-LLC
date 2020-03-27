@@ -133,3 +133,7 @@ Write a function that takes a positive integer, n, as argument and returns the n
 
 ## day 26
 Write a function to find the sum of the first , N, natural numbers.
+
+## day 27
+Write a function to return the , Nth, harmonic sum.
+HMn = 1 + 1/2 + 1/3 + ... + 1/n, where n is the Nth natural number
