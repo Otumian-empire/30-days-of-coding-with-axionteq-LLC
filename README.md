@@ -127,3 +127,6 @@ then the pattern generated is:
 ***
 **
 *
+
+## day 25
+Write a function that takes a positive integer, n, as argument and returns the nth fibonacci number.
