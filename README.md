@@ -153,3 +153,5 @@ Make a program which randomly chooses a number to guess and then the user will h
 to guess the number correctly. In each wrong attempt, the computer will give a hint that the 
 number is greater or smaller than the one you have guessed.
 
+## day 30
+Wtite a program that count down time in which the user can set a timer and then when the time is completed, the user will be notified that the time has ended.
