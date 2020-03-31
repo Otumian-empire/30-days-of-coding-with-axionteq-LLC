@@ -83,8 +83,8 @@ size 4 as input where the 0th and 1th indexed elements are the first row
 and the 2th and 3th indexed elements are the second row.
 
 ## day 14
-Write a program to the roots of a quadratic equation of the form, ax^2 + bx + c = 0,
-taken a, b and c as input.
+Write a program to the find roots of a quadratic equation of the form, ax^2 + bx + c = 0,
+given a, b and c as input.
 
 ## day 15
 Write a program that calculates and prints the sum of all the natural numbers divisible by
@@ -108,10 +108,10 @@ Implement the babylonian algorithm for finding the squareroot of a given number.
 Implement the binary search algorithm given a sorted array, its size and the search item as input.
 
 ## day 21
-Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
+Write a function `int max_of_four(int a, int b, int c, int d)` which reads four arguments and returns the greatest of them.
 
 ## day 22
-Write a void function that takes arguments, sums the first two and assigns it to the third. (Think a little - address)
+Write a void function that takes three arguments, sums the first two and assigns its value to the third. (Think a little - address/poiters)
 
 ## day 23
 Write a program that prompts the user to enter the weight of a person in
@@ -141,6 +141,15 @@ HMn = 1 + 1/2 + 1/3 + ... + 1/n, where n is the Nth natural number
 ## day 28
 Write a function that takes a positive integer, n, as argument and returns the nth fibonacci number,
 using Binet’s formula:
+    ``` 
     f ( n ) = ( 1 + 5^0.5 )^n − ( 1 − 5^0.5 )^n
               ---------------------------------
                         2 ^ n * 5^0.5
+                        
+    ```
+
+## day 29
+Make a program which randomly chooses a number to guess and then the user will have a few chances 
+to guess the number correctly. In each wrong attempt, the computer will give a hint that the 
+number is greater or smaller than the one you have guessed.
+
