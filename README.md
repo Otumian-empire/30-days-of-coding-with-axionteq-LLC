@@ -30,30 +30,38 @@ Input | Output
 0100  | +4
 
 ## day 4
+
 Write a program to find the polar coordinate of a given rectangular (cartesian) coordinate.
 
 ## day 5
+
 Write a function that takes three reals as arguments and returns the max
 
 ## day 6
+
 Implement the bubble sort algorithm
 
 ## day 7
+
 Implement the peak algorithm, given an array and its size as argument
 
 ## day 8
+
 Implement the linear search algorithm, for a one dimensional array and
 and a two dimensional array, gien the array and its size as arguments.
 Make use of functions.
 
 ## day 9
+
 Implement the factorial algorithm.
 
 ## day 10
+
 Given a time elasped in seconds, convert it to hours, minutes anf seconds.
 In the format, HH:MM:SS
 
 ## day 11
+
 >> This problem was taken (copied) from C++ P ROGRAMMING :
 >> FROM PROBLEM ANALYSIS TO PROGRAM DESIGN FIFTH EDITION D.S. M ALIK
 >> CHAPTER 9 ARRAYS AND STRINGS, programming exercise 9
@@ -75,51 +83,64 @@ low temperature in the array.
 (These functions must all have the appropriate parameters.)
 
 ## day 12
+
 Implement the min-max-sum algorithm given an array and its size as input.
 
 ## day 13
+
 write a program to find the inverse of a 2 by 2 matrix, taken an array of of
 size 4 as input where the 0th and 1th indexed elements are the first row
 and the 2th and 3th indexed elements are the second row.
 
 ## day 14
+
 Write a program to the find roots of a quadratic equation of the form, ax^2 + bx + c = 0,
 given a, b and c as input.
 
 ## day 15
+
 Write a program that calculates and prints the sum of all the natural numbers divisible by
 either 3 or 5, up to a given limit entered by the user.
 
 ## day 16
+
 Write a program that, given two positive integers, will calculate and print the greatest
 common divisor of the two.
 
 ## day 17 
+
 Write a program that, given two positive integers, will calculate and print the lowest
 common multiple of the two.
 
 ## day 18
+
 Write a program that memics a calculator - takes 2 numerical inputs and an operator.
 
 ## day 19
+
 Implement the babylonian algorithm for finding the squareroot of a given number.
 
 ## day 20
+
 Implement the binary search algorithm given a sorted array, its size and the search item as input.
 
 ## day 21
+
 Write a function `int max_of_four(int a, int b, int c, int d)` which reads four arguments and returns the greatest of them.
 
 ## day 22
+
 Write a void function that takes three arguments, sums the first two and assigns its value to the third. (Think a little - address/poiters)
 
 ## day 23
+
 Write a program that prompts the user to enter the weight of a person in
 kilograms and outputs the equivalent weight in pounds. Output both the
 weights rounded to two decimal places. (Note that 1 kilogram = 2.2
 pounds.) Format your output with two decimal places.
 
 ## day 24
+
 Write a function that takes as a parameter a nonnegative integer
 and generates the following pattern of stars. If the nonnegative integer is 4,
 then the pattern generated is:
@@ -135,13 +156,16 @@ then the pattern generated is:
 Write a function that takes a positive integer, n, as argument and returns the nth fibonacci number.
 
 ## day 26
+
 Write a function to find the sum of the first , N, natural numbers.
 
 ## day 27
+
 Write a function to return the , Nth, harmonic sum.
 HMn = 1 + 1/2 + 1/3 + ... + 1/n, where n is the Nth natural number
 
 ## day 28
+
 Write a function that takes a positive integer, n, as argument and returns the nth fibonacci number,
 using Binet’s formula:
 ``` 
@@ -152,9 +176,11 @@ using Binet’s formula:
 ```
 
 ## day 29
+
 Make a program which randomly chooses a number to guess and then the user will have a few chances 
 to guess the number correctly. In each wrong attempt, the computer will give a hint that the 
 number is greater or smaller than the one you have guessed.
 
 ## day 30
-Wtite a program that count down time in which the user can set a timer and then when the time is completed, the user will be notified that the time has ended.
+
+Write a program that count down time in which the user can set a timer and then when the time is completed, the user will be notified that the time has ended.
