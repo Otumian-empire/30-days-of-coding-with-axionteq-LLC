@@ -1,8 +1,8 @@
 # 30 days of programming with azionteq LLC
+
 ## Why write code for 30 days?
-Learning to write a computer code is as much as important as leaning any skill.
-Coding or programming is a skill. You must practice daily to really s harpen 
-your coding skill. Remember that an apple a day keeps you away from the doctor
+
+Learning to write a computer code is as much as important as learning any skill. Coding or programming is a skill. You must practice daily to really sharpen your coding skill. Remember that an apple a day keeps you away from the doctor
  and a program a day keeps you from forgetting the synthax easily. Eventually 
  you'd get used to it.
 
@@ -123,12 +123,15 @@ pounds.) Format your output with two decimal places.
 Write a function that takes as a parameter a nonnegative integer
 and generates the following pattern of stars. If the nonnegative integer is 4,
 then the pattern generated is:
+```
 ****
 ***
 **
 *
+```
 
 ## day 25
+
 Write a function that takes a positive integer, n, as argument and returns the nth fibonacci number.
 
 ## day 26
