@@ -144,12 +144,12 @@ HMn = 1 + 1/2 + 1/3 + ... + 1/n, where n is the Nth natural number
 ## day 28
 Write a function that takes a positive integer, n, as argument and returns the nth fibonacci number,
 using Binet’s formula:
-    ``` 
+``` 
     f ( n ) = ( 1 + 5^0.5 )^n − ( 1 − 5^0.5 )^n
               ---------------------------------
                         2 ^ n * 5^0.5
-                        
-    ```
+
+```
 
 ## day 29
 Make a program which randomly chooses a number to guess and then the user will have a few chances 
