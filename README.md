@@ -1,4 +1,4 @@
-# 30 days of programming with azionteq LLC
+# 30 days of programming with axionteq LLC
 
 ## Why write code for 30 days?
 
